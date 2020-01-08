@@ -1,8 +1,15 @@
 import React from 'react';
 
+import Header from './Components/Header/Header.component.jsx';
+import PostList from './Components/PostList/PostList.component.jsx';
+import './App.css';
+
 function App() {
   return (
-    <h1>Hello world</h1>
+  <>
+    <Header />
+    <PostList />
+  </>
   )
 }
 

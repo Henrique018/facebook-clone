@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  width:100%;
+  height:64px;
+  justify-content: space-between; 
+  align-items: center; 
+  background-color:#4267b2 ;
+  color:#fff;
+}
+
+.logo {
+  width:121px;
+  margin: 20px 0 20px 42px;
+}
+
+.header ul {
+  display:flex;
+  margin: 18px 42px 20px 5px;
+  list-style: none;
+}
+
+.header ul li {
+  padding-top:5px;
+  margin-right:15px
+}
+
+

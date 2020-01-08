@@ -1,0 +1,46 @@
+.post {
+  width:100%;
+  max-width:700px;
+  margin:20px;
+  padding:20px;
+  color:#222;
+  background-color: #fff;
+  border-radius:6px;
+}
+
+.user-avatar {
+  width:32px;
+  height:32px;
+  border-radius:80%;
+}
+
+.username {
+  display: inline-block;
+  margin: 0 15px;
+}
+
+.date {
+  display:block;
+  font-size: 15px;
+  margin-left:50px;
+  color:#9a9a9a;
+  
+}
+
+.head {
+  display:flex;
+  align-items:center;
+ }
+
+.content {
+  margin: 20px 0
+}
+
+.hrow {
+  margin: 20px auto;
+  width:100%;
+  border: #eee 1px solid;
+}
+
+
+
